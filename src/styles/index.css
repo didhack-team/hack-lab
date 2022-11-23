@@ -1,0 +1,4 @@
+/** @todo Understand why this works (the only reference to tailwind is the devDependency in package.json */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
